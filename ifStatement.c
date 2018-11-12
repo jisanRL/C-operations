@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * A C program that demnostrated simple if-statement.
+ * A C program that demnostrated simple if-statment.
  */
 
 int a, b;
@@ -13,6 +13,8 @@ int main(){
     
     if (a < b) {
         printf("%d is less then %d.\n", a, b);
+    } else if (a == b) {
+        printf("%d is equal then %d.\n", a, b);
     } else {
         printf("%d is greater then %d.\n", a, b);
     }
