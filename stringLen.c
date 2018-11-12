@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<string.h>
 
+/**
+* A C program that counts the length of the input String.
+*/
+
 
 char s[1000];                           // limit of the string 
 
