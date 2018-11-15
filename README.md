@@ -1,6 +1,4 @@
 # C-operations
-A file of my work on C operations 
+A file of my work on various C operations 
 
-File 1 -> Arithmatic operation in C    
-
-File 2 -> Matrix Addition in C 
+Contains basic C problems and solutions 
