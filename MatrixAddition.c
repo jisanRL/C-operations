@@ -3,8 +3,9 @@
 
 int main(){
     
-    int a,b,c,d;
-    int first[10][10], second[10][10], sum[10][10];
+    int a,b;    //rows and columns 
+    int c,d;    //iterations 
+    int first[10][10], second[10][10], sum[10][10];     //first and second matrix and the output 
 
     printf("Enter the number of Rows and Columns of Matrix:\n");
     scanf("%d%d", &a, &b);
