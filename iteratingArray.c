@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- iterating over an array 
+ iterating over an array and accessing array element 
  **/
  
 int main(){
